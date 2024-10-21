@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://komarev.com/ghpvc/?username=dailius-vcs&base=50&abbreviated=true
+https://komarev.com/ghpvc/?username=StAinius&base=50&abbreviated=true
 
 <!--
 **StAinius/StAinius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
